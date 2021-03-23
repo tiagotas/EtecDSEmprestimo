@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtecDSEmprestimo", "EtecDSEmprestimo\EtecDSEmprestimo.csproj", "{E4D52E95-EBD9-4F6E-9C47-057B2106D56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D52E95-EBD9-4F6E-9C47-057B2106D56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D52E95-EBD9-4F6E-9C47-057B2106D56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D52E95-EBD9-4F6E-9C47-057B2106D56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D52E95-EBD9-4F6E-9C47-057B2106D56C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC0FBA71-6C94-4199-8B24-79D3BCFE26FA}
+	EndGlobalSection
+EndGlobal
